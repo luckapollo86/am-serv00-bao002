@@ -7,5 +7,5 @@ red="\033[31m"
 purple() { echo -e "\033[35m$1\033[0m"; }
 re="\033[0m"
 
-执行脚本 URL
+#执行脚本 URL
 sshpass -p '$&@Weng123456' ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -tt foot9@s9.serv00.com "./.vmess/s9.sh"

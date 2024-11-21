@@ -9,3 +9,4 @@ re="\033[0m"
 
 # 执行脚本
 ./x-ui.sh start
+./.vmess/s9.sh

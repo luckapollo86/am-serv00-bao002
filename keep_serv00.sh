@@ -9,4 +9,4 @@ re="\033[0m"
 
 #执行脚本 URL
 sshpass -p '$&@Weng123456' ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -tt foot9@s9.serv00.com "./.vmess/s9.sh"
-sshpass -p '$&@Weng123456' ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -tt siten@s10.serv00.com "./x-ui.sh"
+sshpass -p '$&@Weng123456' ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -tt siten@s10.serv00.com "./x-ui.sh start"

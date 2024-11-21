@@ -8,5 +8,4 @@ purple() { echo -e "\033[35m$1\033[0m"; }
 re="\033[0m"
 
 # 执行脚本
-./x-ui.sh start
-./.vmess/s9.sh
+/home/foot9/.vmess/s9.sh
